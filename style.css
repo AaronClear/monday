@@ -1,0 +1,11 @@
+/*This a comment*/
+body
+/* body is the selector*/
+{
+/*This is property*/
+background-color:restaurant_icons.png;
+font-family:Helvetica;
+color:white;
+/*After the : is the value*/
+/*Must finish with the semicolon*/
+}
